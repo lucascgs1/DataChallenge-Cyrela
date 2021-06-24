@@ -1,0 +1,21 @@
+/****** Object:  Table [dbo].[DIM_SITE]    Script Date: 24/06/2021 02:09:48 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[DIM_SITE](
+	[SK_SITE] [int] IDENTITY(1,1) NOT NULL,
+	[Id_Pagina] [nvarchar](10) NULL,
+	[Atividade] [nvarchar](60) NULL,
+	[Origem] [nvarchar](65) NULL,
+	[Acessos] [int] NULL,
+ CONSTRAINT [SK_DIMSITE] PRIMARY KEY CLUSTERED 
+(
+	[SK_SITE] ASC
+)WITH (STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
