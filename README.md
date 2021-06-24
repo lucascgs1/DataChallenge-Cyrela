@@ -1,7 +1,12 @@
 # DataChallenge Cyrela
 
-DESCRIÇÃO SUPER MANEIRA
+'''
+86084 - Alan Oliveira
+84177 - Lucas Coutinho Gonçalves de Souza
+85928 - Natália Batista dos Santos
+85818 - Rafael Silva Romualdo
 
+'''
 ## Desafio
 - Utilizar os arquivos csv e planilhas em excel fornecidas pela cyrela para consistir e relacionar uma base dados
 - Limpar, formatar e relacionar a base de dados
