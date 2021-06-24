@@ -1,6 +1,8 @@
 # DataChallenge Cyrela
 
 ```
+TECNAR
+
 86084 - Alan Oliveira
 84177 - Lucas Coutinho Gonçalves de Souza
 85928 - Natália Batista dos Santos
